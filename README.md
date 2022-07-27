@@ -4,6 +4,7 @@
 ## Current implemented RegEx
 * Personal data
   * Email
+  * Phone number
 
 * Miscellany
   * Only numbers
@@ -11,7 +12,6 @@
 
 ## TODO
 * PersonalData
-  * Phone number
   * Mobile phone number
 
 * Networking
